@@ -1,0 +1,22 @@
+
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: black;
+  font-family:arial;
+  font-size: 225%;
+}
+
+
+p {
+  color: black;
+  font-family:arial;
+  font-size:165%
+}
+
+h2 {
+ color:red;
+ font-family:arial;
+ font-size: 200%
+}
